@@ -1,4 +1,6 @@
-version: "2.0"
+version: "kr 2.0"
+# 여기에도 한글 라인 입력
+# 변경 테스트 
 
 intents:
   - greet
